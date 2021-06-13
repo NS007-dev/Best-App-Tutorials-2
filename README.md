@@ -1,8 +1,6 @@
 # Best-App-Tutorials.
 
 - [Best-App-Tutorials.](#best-app-tutorials)
-  - [## Find All the resources for you next coding app.](#-find-all-the-resources-for-you-next-coding-app)
-    - [These are all **hand picked** resources, which I have found and I assure you, they are very successful!](#these-are-all-hand-picked-resources-which-i-have-found-and-i-assure-you-they-are-very-successful)
   - [Where you can find more of these resources:](#where-you-can-find-more-of-these-resources)
   - [Beginner Tutorials:](#beginner-tutorials)
   - [Apps for those a little bit more experienced...](#apps-for-those-a-little-bit-more-experienced)
