@@ -56,12 +56,6 @@
 Follow these simple steps!
 
 - [x] Watch and star our repo...
-  
-
-https://user-images.githubusercontent.com/70807500/121801180-ea370100-cc2d-11eb-860e-fb0b3a244fb6.mp4
-
-
-
 - [x] Fork the repo to make your own version...
 - [x] Make you additions, and create a pull request!
 - [x] Let us review your changes.
