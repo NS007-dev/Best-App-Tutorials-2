@@ -40,7 +40,6 @@
 | [Matching Game](https://codepen.io/cathydutton/pen/avYKeM?editors=1010) | A matching game, with a time.               |
 | [To Do List](https://codepen.io/sagar27/pen/MoBoKP?editors=0010)        | Add all your todos in your own todo app!    |
 | [BMI App](https://codepen.io/beale2017/pen/JjdXVqw?editors=0010)        | Make a Body Mass Index app!                 |
-|                                                                         |                                             |
 
 ## Hard Apps to Make:
 
@@ -52,7 +51,7 @@
 | [Micro Code Editor](https://codepen.io/kazzkiq/pen/xGXaKR?editors=0110)              | Make your own code editor!                                |
 | [Color Matching Game](https://codepen.io/coder787/pen/KKadYZp?editors=0010)          | Make a game where you drag the colors in the right place. |
 | [Space Invaders](https://codeheir.com/2019/03/17/how-to-code-space-invaders-1978-7/) | The arcade game pixelating back to life.                  |
-|                                                                                      |
+
 
 ## Have more you want to add? 
 Follow these simple steps!
