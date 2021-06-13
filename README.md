@@ -1,4 +1,4 @@
-<link rel="icon" href="https://www.pngkey.com/png/full/232-2328150_more-apps-icon-png.png"/>
+<link rel="icon" href="https://www.pngkey.com/png/full/232-2328150_more-apps-icon-png.png" />
 
 # Best-App-Tutorials.
 
