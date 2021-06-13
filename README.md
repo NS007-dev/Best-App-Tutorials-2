@@ -5,6 +5,8 @@
   - [Beginner Tutorials:](#beginner-tutorials)
   - [Apps for those a little bit more experienced...](#apps-for-those-a-little-bit-more-experienced)
   - [Hard Apps to Make:](#hard-apps-to-make)
+  - [Have more you want to add?](#have-more-you-want-to-add)
+  - [Want help? Use THIS!!](#want-help-use-this)
 ## Find All the resources for you next coding app.
 ----------------------------------------------------------------
 
@@ -49,3 +51,20 @@
 | [Color Matching Game](https://codepen.io/coder787/pen/KKadYZp?editors=0010)          | Make a game where you drag the colors in the right place. |
 | [Space Invaders](https://codeheir.com/2019/03/17/how-to-code-space-invaders-1978-7/) | The arcade game pixelating back to life.                  |
 |                                                                                      |
+
+## Have more you want to add? 
+Follow these simple steps!
+
+- [x] Watch and star our repo...
+  
+
+https://user-images.githubusercontent.com/70807500/121801180-ea370100-cc2d-11eb-860e-fb0b3a244fb6.mp4
+
+
+
+- [x] Fork the repo to make your own version...
+- [x] Make you additions, and create a pull request!
+- [x] Let us review your changes.
+- [x] Once we merge, we will add you as a member of our organisation!
+
+## Want help? Use [THIS](https://kbroman.org/github_tutorial/pages/fork.html)!!   
