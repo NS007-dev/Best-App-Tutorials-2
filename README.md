@@ -1,6 +1,10 @@
 <link rel="icon" href="https://www.pngkey.com/png/full/232-2328150_more-apps-icon-png.png" />
 
+<samp>
+
 # Best-App-Tutorials.
+### See The Original: [Best-App-Tutorials-2](https://github.com/CodingSpecies/Best-App-Tutorials).
+### See App-Choreography's [Best-App-Tutorials-3](https://github.com/App-Choreography/Best-App-Tutorials-3) - contribute here, and get an invite to the organisation!
 
 - [Best-App-Tutorials.](#best-app-tutorials)
   - [Where you can find more of these resources:](#where-you-can-find-more-of-these-resources)
@@ -63,3 +67,5 @@ Follow these simple steps!
 - [x] Once we merge, we will add you as a member of our organisation!
 
 ## Want help? Use [THIS](https://kbroman.org/github_tutorial/pages/fork.html)!!   
+
+</samp>
